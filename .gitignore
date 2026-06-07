@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+
+# Specific project outputs to ignore
+demo.png
+*.log
